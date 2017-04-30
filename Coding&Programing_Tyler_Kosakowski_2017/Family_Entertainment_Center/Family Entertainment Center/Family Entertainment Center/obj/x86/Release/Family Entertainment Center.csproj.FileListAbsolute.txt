@@ -1,0 +1,61 @@
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\employeeNames.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\fridaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\monday.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\payRate.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\saturdaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\sundaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\thursdaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\tuesdaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\wednesdaySchedule.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\wklyHrs.txt
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.exe.manifest
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.application
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.exe
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.pdb
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form1.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form10.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form12.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form2.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form3.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form4.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form5.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form6.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form7.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form8.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Properties.Resources.resources
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.csproj.GenerateResource.Cache
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.exe.manifest
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.application
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.exe
+I:\FBLA\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.pdb
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.exe
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.pdb
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\employeeNames.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\fridaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\monday.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\payRate.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\saturdaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\sundaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\thursdaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\tuesdaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\wednesdaySchedule.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\wklyHrs.txt
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.exe.manifest
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.application
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.exe
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\bin\Release\Family Entertainment Center.pdb
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form1.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form10.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form12.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form2.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form3.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form4.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form5.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form6.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form7.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Form8.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family_Entertainment_Center.Properties.Resources.resources
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.csproj.GenerateResource.Cache
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.exe.manifest
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.application
+I:\FBLA\Tyler K\Coding&Programing_Tyler_Kosakowski_2017\Family_Entertainment_Center\Family Entertainment Center\Family Entertainment Center\obj\x86\Release\Family Entertainment Center.csprojResolveAssemblyReference.cache
